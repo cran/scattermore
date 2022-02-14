@@ -1,8 +1,8 @@
-a5b3661a4e9f8bbe0d3707109c7c84f3 *DESCRIPTION
+e0b5618640fe01be3e2b23c16b5f7db1 *DESCRIPTION
 77576a692dd14aa00bb71e0ba4fa764a *NAMESPACE
-91b9629d94d82844cf99938fb5ea5895 *R/scattermore.R
-637f342bff5d6a5defea59a293153625 *man/geom_scattermore.Rd
+08d4147c34c1b7a820dca4132dd8c37c *R/scattermore.R
+d527315c0131c678ab5d155ce9643c33 *man/geom_scattermore.Rd
 5b78e6854fb7cb8a3c4d50bed313f83c *man/geom_scattermost.Rd
-9970bb95b4673867122ccd8eec489d4d *man/scattermore.Rd
-f08e3e4232fe070b07b9c95453e9a1bd *man/scattermoreplot.Rd
-ceaff950dec3433077397ac276f46bd6 *src/scattermore.c
+841b6168a04bd0e8999e5c3629078d25 *man/scattermore.Rd
+c1db6db163f7d25606995109e01f8976 *man/scattermoreplot.Rd
+98f9a95552a11710fec935643c891c65 *src/scattermore.c
