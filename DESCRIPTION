@@ -1,6 +1,6 @@
 Package: scattermore
 Title: Scatterplots with More Points
-Version: 1.0
+Version: 1.1
 Authors@R: 
     c(person(given = "Tereza",
            family = "Kulichova",
@@ -21,9 +21,9 @@ RoxygenNote: 7.2.3
 Suggests: covr, knitr, rmarkdown, testthat
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2023-05-03 20:35:41 UTC; exa
+Packaged: 2023-05-17 08:51:46 UTC; exa
 Author: Tereza Kulichova [aut],
   Mirek Kratochvil [aut, cre] (<https://orcid.org/0000-0001-7356-4075>)
 Maintainer: Mirek Kratochvil <exa.exa@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-05-03 21:10:02 UTC
+Date/Publication: 2023-05-17 09:30:02 UTC
